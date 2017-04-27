@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: cadetblue;
+}
+main {
+    background: tomato;
+    background-image: url(https://spectator.imgix.net/content/uploads/2017/03/paulverhoeven.jpg?auto=compress,enhance,format,redeye&crop=faces,entropy,edges&fit=crop&w=820&h=550);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    padding-top: 50px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-style: dotted;
+    border-bottom-width: 10px;
+    } 
+
+section {
+   margin: 0 auto;
+   color: mintcream;
+   width: 350px;
+   padding-right: 400px;
+   font-family: Courier New, Courier, monospace;
+}

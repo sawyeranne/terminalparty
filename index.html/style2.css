@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    background: cadetblue;
+}
+main {
+    background: tomato;
+    background-image: url('HERO IMAGE.png');
+    background-repeat: no-repeat;
+    background-cover;
+    height: 450px;
+    padding-top: 50px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-style: dotted;
+    border-bottom-width: 10px;
+    } 
+
+section {
+   margin: 0 auto;
+   color: mintcream;
+   width: 350px;
+   padding-right: 400px;
+   font-family: Courier New, Courier, monospace;
+}
